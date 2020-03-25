@@ -4,7 +4,7 @@
        "userId": 1,
        "id": 1,
        "status": "published",
-       "title": "accusamus beatae ad facilis cum similique qui sunt",
+       "title": "test title",
        "imgUrl": "https://via.placeholder.com/600/92c952",
        "thumbnailUrl": "https://via.placeholder.com/150/92c952"
     },
@@ -12,7 +12,7 @@
        "userId": 1,
        "id": 1,
        "status": "published",
-       "title": "accusamus beatae ad facilis cum similique qui sunt",
+       "title": "accusamus beatae ad",
        "imgUrl": null,
        "thumbnailUrl": null
     },
@@ -20,7 +20,7 @@
        "userId": 3,
        "id": 1,
        "status": "published",
-       "title": "accusamus beatae ad facilis cum similique qui sunt",
+       "title": "cum similique qui sunt",
        "imgUrl": "https://via.placeholder.com/600/92c952",
        "thumbnailUrl": "https://via.placeholder.com/150/92c952"
     },
