@@ -3,7 +3,7 @@
     {
        "userId": 1,
        "id": 1,
-       "status": 'published',
+       "status": "published",
        "title": "accusamus beatae ad facilis cum similique qui sunt",
        "imgUrl": "https://via.placeholder.com/600/92c952",
        "thumbnailUrl": "https://via.placeholder.com/150/92c952"
@@ -11,7 +11,7 @@
     {
        "userId": 1,
        "id": 1,
-       "status": 'published',
+       "status": "published",
        "title": "accusamus beatae ad facilis cum similique qui sunt",
        "imgUrl": null,
        "thumbnailUrl": null
@@ -19,7 +19,7 @@
     {
        "userId": 3,
        "id": 1,
-       "status": 'published',
+       "status": "published",
        "title": "accusamus beatae ad facilis cum similique qui sunt",
        "imgUrl": "https://via.placeholder.com/600/92c952",
        "thumbnailUrl": "https://via.placeholder.com/150/92c952"
@@ -27,7 +27,7 @@
     {
        "userId": 2,
        "id": 1,
-       "status": 'hidden',
+       "status": "hidden",
        "title": "accusamus beatae ad facilis cum similique qui sunt",
        "imgUrl": "https://via.placeholder.com/600/92c952",
        "thumbnailUrl": "https://via.placeholder.com/150/92c952"
